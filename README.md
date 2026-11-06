@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/techmantra108/Leetcode_java-shri1234/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/techmantra108/Leetcode_java-shri1234/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/techmantra108/Leetcode_java-shri1234/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
